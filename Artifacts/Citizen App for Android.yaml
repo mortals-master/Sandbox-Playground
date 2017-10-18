@@ -1,0 +1,23 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "https://webide-i311345sapdev.dispatcher.int.sap.hana.ondemand.com/ "
+name: "Citizen App for Android"
+id: "Citizen-App-for-Androidd"
+type:
+  name: "Fiori Mobile Project"
+  goals: null
+features: null
+goals: null
+application: null
+source:
+  url: "https://github.com/Mortals-dev/CitizenHybridApp "
+  type: "Github"
+description:
+  title: null
+  details: "Android App for uploading pictures and status tracking"
+  icon:
+  - "sap-icon://iphone"
+  background: null
+  moreInfo: null
+  other: null
