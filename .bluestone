@@ -3,10 +3,9 @@ project:
   name: "Citizen Connect"
   version: "0.1"
   status:
-    description:
-      title: "Draft"
-      details: null
-      icon: null
-      background: null
-      moreInfo: null
-      other: null
+    title: "Published"
+    details: null
+    icon: null
+    background: null
+    moreInfo: null
+    other: null
